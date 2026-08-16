@@ -1,5 +1,4 @@
-env.js
-node_modules/
-.DS_Store
-*.log
-.vercel
+```
+# Backup files
+*.backup*
+```
